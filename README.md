@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- [edgerunner0x01](https://www.github.com/edgerunner0x01)
+- [edgerunner0x01](https://opensource.org/licenses/MIT))
 
 ## Contributing
 
