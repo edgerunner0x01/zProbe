@@ -109,11 +109,11 @@ else:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## Author
 
-- [edgerunner0x01](https://opensource.org/licenses/MIT))
+- [edgerunner0x01](https://www.github.com/edgerunner0x01)
 
 ## Contributing
 
