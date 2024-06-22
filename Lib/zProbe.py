@@ -21,7 +21,7 @@ USER_AGENTS_PATH:str=str(os.path.dirname(__file__))+"/../Require/User-Agents.jso
 UserAgents:List[str]=json.load(open(USER_AGENTS_PATH,"r"))
 
 DEFAULT_HEADERS: Dict[str, str] = {
-    "Accept": "xml,*/*",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
     "Accept-Language": "en-US,en",
     "User-Agent": str(UserAgents[randint(0,len(UserAgents)-1)])
 }
